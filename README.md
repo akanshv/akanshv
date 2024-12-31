@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Akansh Vaibhav</h1>
-<h3 align="center">CSE Undergraduate Student at Indian Institute of Information Technology Sri City</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanshv" alt="akanshv" /></a> </p>
 
